@@ -1840,7 +1840,7 @@
    },
    "outputs": [],
    "source": [
-    "training_predict = model.predict(X_test_feature)"
+    "testing_predict = model.predict(X_test_feature)"
    ]
   },
   {
